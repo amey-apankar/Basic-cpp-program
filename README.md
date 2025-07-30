@@ -9,7 +9,7 @@ To run these programs, you’ll need:
 ### To Run
 
 1. **Install Turbo C++**: You can download Turbo C++ from various online sources or use a Turbo C++ emulator.
-   - For installation guidance, check out this [link to Turbo C++ setup](#) (replace this with a real link if available).
+   - For installation guidance, check out this [link to Turbo C++ setup](https://turbo-c.net/turbo-c-download/).
    
 2. **Compile and Run**:
    - Open the `.cpp` file in Turbo C++ and press `Ctrl + F9` to compile and run the program.
