@@ -1,27 +1,3 @@
-/*
-#include<iostream.h>
-#include<conio.h>
-class Box{
-private:
-int length;
-public:
-void setLength(int l){
-length=l;
-}
-friend void showLength(Box b);
-};
-void showLength(Box b){
-cout<<"Length is: "<<b.length;
-}
-void main(){
-clrscr();
-Box b1;
-b1.setLength(10);
-showLength(b1);
-getch();
-}
-*/
-
 //Write a program in C++ to add two private members from two different classes using a friend function..
 #include<iostream.h>
 #include<conio.h>
